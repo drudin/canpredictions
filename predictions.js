@@ -1,7 +1,7 @@
 var year = ["2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"]
 
 var area = ["commenting", "user-generated content", "virtual reality", "augmented reality", "Conrad Black's latest column", "artificial intelligence", "curation", "the CBC's newfound reliance on Patreon", "the collapse of the nation's journalism schools", "Andrew Coyne's conversion to communism", "community", "podcasting", "improved print delivery", "product development", "user data", "quality advertising" , "fact checking", "data visualization", "hyper-local content", "animated explainer content", "the privatization of the CBC", "a proliferation of listicles about Xavier James Trudeau", "messenger bots covering City Hall", "forking journalism branches on GitHub", "a merger between Tim Hortons and CTV", "the collapse of net neutrality", "a synergistic collaboration between Starbucks and Tim Hortons", "Paul Godfrey's latest retention bonus"]
-var outcome = ["save", "rescue", "radically transforms", "completely reshapes", "utterly revolutionilizes", "ushers in unspeakable change for", "revolutionize", "redeem", "stem the bleeding in", "bring tens of dollars to", "keep Postmedia afloat in", "allow TorStar to dominate", "allow Postmedia to dominate", "keep TorStar afloat in", "prevent the imminent death of"]
+var outcome = ["save", "rescue", "radically transforms", "completely reshape", "utterly revolutionilize", "usher in unspeakable change for", "revolutionize", "redeem", "stem the bleeding in", "bring tens of dollars to", "keep Postmedia afloat in", "allow TorStar to dominate", "allow Postmedia to dominate", "keep TorStar afloat in", "prevent the imminent death of"]
 
 
 function news() {
