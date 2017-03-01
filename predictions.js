@@ -16,7 +16,7 @@ function news() {
     var phrase = "In " + a + ", " + b + " will " + c + " the Canadian journalism industry."
 
     updateHTML('phrase', phrase);
-    updateHTML('butn', '<a href="javascript:news();" class="button">Generate <em>another</em>, prediction!</a>');
+    updateHTML('butn', "<a href="javascript:news();" class="button">Generate <em>another</em>, prediction!</a>");
 
     on('phrase');
 }
